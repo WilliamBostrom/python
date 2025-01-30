@@ -1,6 +1,6 @@
 # TIP CALCULATOR
 
-print("Welcome to the tip calculator.")
+""" print("Welcome to the tip calculator.")
 total_bill = float(input("What was the total bill? $"))
 tip_percentage = int(input("What percentage tip would you like to give? 10, 12, or 15? "))
 people = int(input("How many people to split the bill? "))
@@ -10,7 +10,7 @@ each_person = total / people
 each_person = round(each_person, 2)
 print(f"Each person should pay: ${each_person}")
 
-
+ """
 
 
 # # Subscripting
